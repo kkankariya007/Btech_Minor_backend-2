@@ -1,4 +1,4 @@
-0 Leaf Blast
-1 Hispa
-2 Healthy
-3 Brown Spot
+0 Rice Leaf Blast \n Dispensing Pyroquilon and Tricyclazole
+1 Hispa \n Dispensing Furadan 5 G
+2 Rice Leaf Healthy
+3 Rice Brown Spot \n Dispensing Copper Fungicidal sprays
